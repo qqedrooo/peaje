@@ -1,0 +1,4 @@
+pyotp
+cryptography
+qrcode
+argon2-cffi

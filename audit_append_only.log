@@ -1,0 +1,34 @@
+{"evento": {"fecha": "2026-07-04 00:26:53", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "6aa4b73a1da554c54ac70df11fd45d1a7fe8c0d5514a10ee27725ea7112d4e8a"}
+{"evento": {"fecha": "2026-07-04 00:27:03", "funcion": "autenticar_garita", "mensaje": "Login exitoso para supervisor"}, "hmac": "18fee20a239d628cbd320b1aa81f2b9624c42c9b689f1d48286bd69f8821ecdc"}
+{"evento": {"fecha": "2026-07-04 01:30:05", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "b732f35e255bfaa1ce8983deda5e5f97a20c2ad150bb320f1f681e261b4d85fd"}
+{"evento": {"fecha": "2026-07-04 01:30:13", "funcion": "autenticar_garita", "mensaje": "Login exitoso para supervisor"}, "hmac": "ced577b9dac09e8fe8820ba308144a4e633126712dbcedcaebb178bb42b84282"}
+{"evento": {"fecha": "2026-07-04 01:30:19", "funcion": "generar_totp_secret", "mensaje": "Secret TOTP generado (fichero) para supervisor"}, "hmac": "74a61677f8be50551c2247fc494021060ffab6d7e146694356a837fded6db4e5"}
+{"evento": {"fecha": "2026-07-04 01:31:40", "funcion": "configurar_mfa", "mensaje": "MFA fallido para supervisor"}, "hmac": "8cc6c46ec9569b0eb2ddffca59179d86756e41f0362c9cbc367d57cc79f1f58c"}
+{"evento": {"fecha": "2026-07-04 01:40:44", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "9fed9c570bed628daa45634c94a88070d36da5632655abc3f01eade27ff23bad"}
+{"evento": {"fecha": "2026-07-04 01:40:50", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "5358ff50dcc9b994969b7483dc5c68cc2824f4f4b8a301cd19a7fda0baebe0f7"}
+{"evento": {"fecha": "2026-07-04 01:40:57", "funcion": "autenticar_garita", "mensaje": "Login exitoso para supervisor"}, "hmac": "f778b715f751ffcf14bec6527aa4308cdeab6ce88896b9fa844201f7b0ab617d"}
+{"evento": {"fecha": "2026-07-05 07:34:43", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "2f925d27ab96c1385cda01be33cf0018fb2908af1a9814a0dc7795192157af21"}
+{"evento": {"fecha": "2026-07-05 07:51:03", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "0c6a05ffac35125270c98bf720183aae975453f7e9d37685352dbea9fc5aa601"}
+{"evento": {"fecha": "2026-07-05 07:51:10", "funcion": "autenticar_garita", "mensaje": "Login exitoso para supervisor"}, "hmac": "e210566d73688f0039df991ba835e0c777a304ebf7a3929efc3eac167e4998f1"}
+{"evento": {"fecha": "2026-07-05 07:51:13", "funcion": "generar_totp_secret", "mensaje": "Secret TOTP generado (fichero) para supervisor"}, "hmac": "4d6c5cd2e35d1dbc7e3191d09e6342532a5bc7a4e764133686d9f45473de7fb5"}
+{"evento": {"fecha": "2026-07-05 07:59:37", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "a8537850f11fed4d114bdf23c011b6ad7838558ad6f5ccea3acb87ef6fe17d9d"}
+{"evento": {"fecha": "2026-07-05 07:59:47", "funcion": "autenticar_garita", "mensaje": "Credenciales inválidas para supervisor"}, "hmac": "70c3ea5f931568180f44aafc6f81b2546418a11f10b1c9bf657ff7251c528222"}
+{"evento": {"fecha": "2026-07-05 08:00:06", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "b98eb3191b0c310b9d99a9e5ed36e04d504e27cc47bd664c1ef6ff83d8185c45"}
+{"evento": {"fecha": "2026-07-05 08:00:13", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "62e712b37f76ebd95d2c44c86f85466226eec3627ca5d589265aa230671084f2"}
+{"evento": {"fecha": "2026-07-05 08:00:19", "funcion": "autenticar_garita", "mensaje": "Login exitoso para supervisor"}, "hmac": "01fa8a1caef21a5be62ec523e54cef631ef0cd04ccf0ed6d165c622ff124acb4"}
+{"evento": {"fecha": "2026-07-05 08:00:27", "funcion": "generar_totp_secret", "mensaje": "Secret TOTP generado (fichero) para supervisor"}, "hmac": "01def2b6cc347e24fbe3097a05550bdb83053387e7baacfdb7fea3e04a29477f"}
+{"evento": {"fecha": "2026-07-05 08:04:47", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "62d79bbe9d60e3252458089afd2ed8f0904c272db5aadf53aeb0a491a0b9ba0c"}
+{"evento": {"fecha": "2026-07-05 08:04:55", "funcion": "autenticar_garita", "mensaje": "Login exitoso para supervisor"}, "hmac": "8ebbe58c5d4e7a99aac057523e4b7ad5cebb3532e3a129d886165cc68d1cf00f"}
+{"evento": {"fecha": "2026-07-05 08:05:01", "funcion": "generar_totp_secret", "mensaje": "Secret TOTP generado (fichero) para supervisor"}, "hmac": "5ecf83dbec66e63aacf8c6da8b3b7cdc79afea23928ae80b103236e56116534b"}
+{"evento": {"fecha": "2026-07-05 08:39:26", "funcion": "configurar_mfa", "mensaje": "MFA fallido para supervisor"}, "hmac": "9f260242b2a1ee8ae3b3fd3e48ccf2a8353b2c6274ac4b3163da7cd0af349734"}
+{"evento": {"fecha": "2026-07-05 08:39:33", "funcion": "menu_principal", "mensaje": "Opción inválida"}, "hmac": "cf22f594219df36ab285452a54b9fba3e73568c5e5d1fab90c0b51b6df45c53c"}
+{"evento": {"fecha": "2026-07-05 08:39:37", "funcion": "menu_principal", "mensaje": "Opción inválida"}, "hmac": "7aed350885e65f5a13bc0770477c73675c5c7fbd81c1cf3a887d540b38eb6c5a"}
+{"evento": {"fecha": "2026-07-05 08:39:43", "funcion": "menu_principal", "mensaje": "Opción inválida"}, "hmac": "d45e7a4536fbfe35f7e257ce7f01b0d53f614c49c8434abde192391ef9953f5e"}
+{"evento": {"fecha": "2026-07-05 08:39:47", "funcion": "menu_principal", "mensaje": "Opción inválida"}, "hmac": "e779018153adf26cc7ac7948df096e533e3d09cec949ac9956b095323f807f2f"}
+{"evento": {"fecha": "2026-07-05 08:40:51", "funcion": "init", "mensaje": "Usuario jefe_cabinas creado con clave inicial"}, "hmac": "604f5d5304420d6ecd216675d20d4add397f1ed29aa4c88300844d389f5c5130"}
+{"evento": {"fecha": "2026-07-05 08:41:06", "funcion": "generar_totp_secret", "mensaje": "Secret TOTP generado (fichero) para supervisor"}, "hmac": "794962fe9674d9ea7a0bdc6e92c4596dc61e4eb0900661321fc94271a38c8948"}
+{"evento": {"fecha": "2026-07-05 08:45:06", "funcion": "verificar_totp", "mensaje": "TOTP verificado para supervisor"}, "hmac": "51b5d63074c90a9dd8b63040540d1475e85a9210df7b25ed4983d5ae309f8b20"}
+{"evento": {"fecha": "2026-07-05 08:45:06", "funcion": "configurar_mfa", "mensaje": "MFA habilitado para supervisor"}, "hmac": "f156ce3eb100f52606e8e927c75e5a4caa4a6420118a59a88e111012539b29e5"}
+{"evento": {"fecha": "2026-07-05 08:45:36", "funcion": "verificar_totp", "mensaje": "TOTP verificado para supervisor"}, "hmac": "66b0e2416715e058d96c21ecc38862fbaa6f5b74ec4a6aad41474af049a1b52b"}
+{"evento": {"fecha": "2026-07-05 08:45:36", "funcion": "autenticar_garita", "mensaje": "Login exitoso para supervisor"}, "hmac": "30ecb2d0335a5c8c69df6f2f8a04f6286f3452a645a18c9be21e8d4ef9271048"}
+{"evento": {"fecha": "2026-07-05 08:45:49", "funcion": "generar_totp_secret", "mensaje": "Secret TOTP generado (fichero) para supervisor"}, "hmac": "2835e24b9af043bb0adf34d5512045f18b77a19d2a23a83135722280e472e30b"}
