@@ -1,14 +1,18 @@
 # Sistema de Peaje - Garita
 
-Aplicacion de consola para gestion de peaje con control de acceso por roles, autentificacion MFA, persistencia cifrada por usuario y registro de eventos.
+Un sistema de peaje de consola pensado para operar con orden, control y seguridad. Esta version centraliza el acceso por roles, protege la autenticacion con MFA y guarda la informacion sensible cifrada por usuario.
 
-## Caracteristicas
+## Lo que hace
 
-- Control de acceso por roles en el menu.
-- Autenticacion MFA con TOTP y opcion de configuracion QR.
-- Persistencia por usuario en ficheros cifrados.
+- Control de acceso por roles directamente desde el menu.
+- MFA con TOTP y configuracion mediante QR.
+- Persistencia cifrada por usuario para datos sensibles.
 - Backup codes, proteccion contra replay y rate limiting.
-- Reportes y consulta de movimientos, vehiculos y tarifas.
+- Consulta de movimientos, vehiculos, tarifas y reportes del dia.
+
+## Por que importa
+
+Este proyecto no busca solo "funcionar". Busca dejar trazabilidad, evitar accesos improvisados y mantener la operacion mas limpia cuando el sistema crece o cuando varios usuarios lo usan al mismo tiempo.
 
 ## Requisitos
 
@@ -27,14 +31,18 @@ pip install -r requirements.txt
 python v11.py
 ```
 
-## Estructura
+## Estructura del proyecto
 
 - `v11.py`: programa principal.
 - `requirements.txt`: dependencias del proyecto.
 - `mfa_users/`: datos cifrados de usuarios MFA.
 - `srv/`: estructura auxiliar del sistema.
 
-## Notas
+## Detalles a tener en cuenta
 
-- No subas al repositorio las claves locales ni archivos temporales generados en ejecucion.
-- Si quieres cambiar el almacenamiento o los parametros de seguridad, revisa las variables de entorno definidas al inicio de `v11.py`.
+- No subas al repositorio claves locales, archivos temporales ni datos generados en ejecucion.
+- Si quieres ajustar el almacenamiento o la seguridad, revisa las variables de entorno al inicio de `v11.py`.
+
+## En resumen
+
+Si lo que quieres es un peaje con una capa de seguridad seria y una base clara para seguir creciendo, este es el punto de partida.
