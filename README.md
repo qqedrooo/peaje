@@ -36,6 +36,7 @@ python v11.py
 - `v11.py`: programa principal.
 - `requirements.txt`: dependencias del proyecto.
 - `mfa_users/`: datos cifrados de usuarios MFA.
+- `versiones_anteriores/`: historial de versiones previas del sistema.
 - `srv/`: estructura auxiliar del sistema.
 
 ## Detalles a tener en cuenta
