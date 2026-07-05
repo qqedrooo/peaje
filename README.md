@@ -36,8 +36,12 @@ python v11.py
 - `v11.py`: programa principal.
 - `requirements.txt`: dependencias del proyecto.
 - `mfa_users/`: datos cifrados de usuarios MFA.
-- `sistema_*.py` y `ySistema_*.py`: historial de versiones previas dejado en la raiz para simular la evolucion del proyecto.
+- `01_peaje.py` a `27_ySistema_peajeVillarV4.py`: historial ordenado de la primera version hasta las mas recientes.
 - `srv/`: estructura auxiliar del sistema.
+
+## Historial de versiones
+
+El orden del historial en GitHub empieza en `01_peaje.py`, que viene de `peajev1/peaje.py`, y sigue con las versiones posteriores numeradas para que la evolucion del proyecto se vea de forma clara y cronologica.
 
 ## Detalles a tener en cuenta
 
