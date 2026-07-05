@@ -28,12 +28,12 @@ pip install -r requirements.txt
 ## Ejecucion
 
 ```bash
-python v11.py
+python PeajeV3.0.py
 ```
 
 ## Estructura del proyecto
 
-- `v11.py`: programa principal.
+- `PeajeV3.0.py`: programa principal.
 - `requirements.txt`: dependencias del proyecto.
 - `mfa_users/`: datos cifrados de usuarios MFA.
 - `01_peaje.py` a `27_ySistema_peajeVillarV4.py`: historial ordenado de la primera version hasta las mas recientes.
@@ -46,7 +46,7 @@ El orden del historial en GitHub empieza en `01_peaje.py`, que viene de `peajev1
 ## Detalles a tener en cuenta
 
 - No subas al repositorio claves locales, archivos temporales ni datos generados en ejecucion.
-- Si quieres ajustar el almacenamiento o la seguridad, revisa las variables de entorno al inicio de `v11.py`.
+- Si quieres ajustar el almacenamiento o la seguridad, revisa las variables de entorno al inicio de `PeajeV3.0.py`.
 
 ## En resumen
 
